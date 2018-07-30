@@ -1,4 +1,4 @@
-# ResellerPanels
+# SMFResellerPanels
 
 This repository only contains several lists of potential social media fraud (SMF) reseller panels. These potential panels were found during our research that resulted in a conference paper that will be presented at VB2018. The paper will also be published during the conference and a link will be provided. 
 

@@ -18,8 +18,9 @@ IP addresses hosting many potential SMF reseller panels
 - Passivetotal_147-135-223-128_resolutions.csv (Query done on July 30th, 2018)
 
 ## Software sellers panels as of July 30th, 2018: 
-perfectpanel[dot]com
-smm-panel[dot]net
-levopanel[dot]com
-panelhub[dot]com
-indusrabbit[dot]com 
+- perfectpanel[dot]com
+- smm-panel[dot]net
+- levopanel[dot]com
+- panelhub[dot]com
+- indusrabbit[dot]com 
+

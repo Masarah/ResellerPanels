@@ -4,7 +4,7 @@ This repository only contains several lists of potential social media fraud (SMF
 
 We make these files public to help for future studies on the matters. 
 
-## Files in /data: 
+## Files Descriptions
 
 Confirmed reseller panels:
 - Reseller_panels_343.csv
@@ -17,7 +17,7 @@ IP addresses hosting many potential SMF reseller panels
 - Passivetotal_101-53-144-170_resolutions.csv (Query done on July 30th, 2018) 
 - Passivetotal_147-135-223-128_resolutions.csv (Query done on July 30th, 2018)
 
-## Software sellers panels as of July 30th, 2018: 
+## Software sellers panels found as of July 30th, 2018: 
 - perfectpanel[dot]com
 - smm-panel[dot]net
 - levopanel[dot]com
